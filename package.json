@@ -1,0 +1,14 @@
+{
+  "name": "sample-api",
+  "version": "1.0.0",
+  "description": "Application exemple conteneurisée de la plateforme DevOps (API Node.js)",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
